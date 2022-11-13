@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  This is my new site
-image:  03.jpg
+image:  maria.jpg
 tags: News
 ---
 
