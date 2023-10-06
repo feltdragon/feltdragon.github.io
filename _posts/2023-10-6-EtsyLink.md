@@ -1,7 +1,7 @@
 ---
 layout: post
-title: October 6
+title: October 6 and link to my Etsy shop
 image:  
 tags: News
 ---
-Today I will be making posts until I can do it without help.
+ https://feltdragon.etsy.com
