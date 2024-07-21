@@ -1,7 +1,7 @@
 ---
 layout: post
-title: June Search and Find
-image: 6SaerchFind.png
+title: July Search and Find
+image: JulSearchFind.png
 tags: Search and Find
 ---
-Can you find four pearls, the number 11, and a tea cup? I am hoping to do these Search and finds every month. Probably, it will be more challenging next time.
+Can you find Shears, a cup of coffee, two friends from before, a red bouncy ball, two gears, and much much more.
