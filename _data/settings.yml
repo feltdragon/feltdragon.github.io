@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Felt Dragon
+title: "Felt Dragon"
 logo: NewLogo.png # You can add own logo.
 description: Felt Dragon shows a colection of my work
 
@@ -10,8 +10,8 @@ description: Felt Dragon shows a colection of my work
 author:
   name: Maria Sheehy
   image: maria.jpg
-  say-hello: Hello, I’m <strong>Maria Sheehy</strong>
-  bio: Crafter, Animator, and Writer
+  say-hello: "Hello, I’m <strong>Maria Sheehy</strong>"
+  bio: "Crafter, Animator, and Writer"
 
 
 #-------------------------------
